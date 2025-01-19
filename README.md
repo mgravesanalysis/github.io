@@ -4,7 +4,7 @@
 
 #### Technology Skills
 
-*   R
+*   [R](R.md)
 *   SQL
 *   Python
 *   Microsoft PowerBI
