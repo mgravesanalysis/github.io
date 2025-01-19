@@ -1,7 +1,6 @@
 Feel free to browse through my portfolio of work to get a sense of my skills and interests and don't hesitate to reach out if you'd like to connect or discuss a project.
 
-Message me on LinkedIn _https://www.linkedin.com/in/mgravesanalysis/_.
-Connect with me on Bluesky _https://bsky.app/profile/nuptia4.bsky.social_.
+Message me on [LinkedIn](https://www.linkedin.com/in/mgravesanalysis/) or connect with me on [Bluesky](https://bsky.app/profile/nuptia4.bsky.social_).
 
 <!-- LAYOUT ELEMENTS BELOW
 --- 
