@@ -1,6 +1,8 @@
 <p align="center">
   Feel free to browse through my portfolio of work to get a sense of my skills and interests and don't hesitate to reach out if you'd like to connect or discuss a project.
 
+  ***
+
 
 #### Skills
 
@@ -16,8 +18,9 @@ RStudio | SQL | Python | Microsoft PowerBI | Tableau | Microsoft Excel
 
 
 ***
-<p align="center">
-##### About Me
+<h5 align="center">About Me</h5>
+<p align="left">
+  My career journey has not been a straight line. 
 
 
 
