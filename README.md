@@ -1,6 +1,27 @@
-Feel free to browse through my portfolio of work to get a sense of my skills and interests and don't hesitate to reach out if you'd like to connect or discuss a project.
+<p align="center">
+  Feel free to browse through my portfolio of work to get a sense of my skills and interests and don't hesitate to reach out if you'd like to connect or discuss a project.
 
-Message me on [LinkedIn](https://www.linkedin.com/in/mgravesanalysis/) or connect with me on [Bluesky](https://bsky.app/profile/nuptia4.bsky.social_).
+##### Technology Skills
+
+*   R
+*   SQL
+*   Python
+*   Microsoft PowerBI
+*   Tableau
+*   Microsoft Excel
+
+##### Data Skills
+
+* Descriptive statistics and analytics
+* Predictive analytics
+* Data visualization and presentation
+* Data analytics life cycle
+* Agile scrum management techniques
+* Risk assessment and problem solving
+
+
+
+_Message me on [LinkedIn](https://www.linkedin.com/in/mgravesanalysis/) or connect with me on [Bluesky](https://bsky.app/profile/nuptia4.bsky.social_)._
 
 <!-- LAYOUT ELEMENTS BELOW
 --- 
