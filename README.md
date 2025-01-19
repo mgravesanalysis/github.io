@@ -1,7 +1,8 @@
 <p align="center">
   Feel free to browse through my portfolio of work to get a sense of my skills and interests and don't hesitate to reach out if you'd like to connect or discuss a project.
 
-##### Technology Skills
+
+#### Technology Skills
 
 *   R
 *   SQL
@@ -10,7 +11,7 @@
 *   Tableau
 *   Microsoft Excel
 
-##### Data Skills
+#### Data Skills
 
 * Descriptive statistics and analytics
 * Predictive analytics
