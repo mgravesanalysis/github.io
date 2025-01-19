@@ -2,23 +2,24 @@
   Feel free to browse through my portfolio of work to get a sense of my skills and interests and don't hesitate to reach out if you'd like to connect or discuss a project.
 
 
-#### Technology Skills
+#### Skills
 
-*   [R](R.md)
-*   SQL
-*   Python
-*   Microsoft PowerBI
-*   Tableau
-*   Microsoft Excel
+Descriptive statistics and analytics | Predictive analytics | Data visualization and presentation | Data analytics life cycle | Agile scrum management techniques | Risk assessment and problem solving
+  
+#### Tools
 
-#### Data Skills
+RStudio | SQL | Python | Microsoft PowerBI | Tableau | Microsoft Excel
 
-* Descriptive statistics and analytics
-* Predictive analytics
-* Data visualization and presentation
-* Data analytics life cycle
-* Agile scrum management techniques
-* Risk assessment and problem solving
+#### Projects
+
+* x
+
+
+***
+<p align="center">
+##### About Me
+
+
 
 
 
