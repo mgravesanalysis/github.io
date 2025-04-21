@@ -1,5 +1,5 @@
 <p align="center">
-  Feel free to browse through my portfolio of work to get a sense of my skills and interests and don't hesitate to reach out if you'd like to connect or discuss a project.
+  Browse my portfolio to see my skills and interests - contact me if you'd like to connect or discuss a project.
 
   ***
 
@@ -10,7 +10,7 @@ Descriptive statistics and analytics | Predictive analytics | Data visualization
   
 #### Tools
 
-RStudio | SQL | Python | Microsoft PowerBI | Tableau | Microsoft Excel
+RStudio | Postgres | Microsoft PowerBI | Microsoft Excel
 
 #### Projects
 
@@ -20,7 +20,7 @@ RStudio | SQL | Python | Microsoft PowerBI | Tableau | Microsoft Excel
 ***
 <h5 align="center">About Me</h5>
 <p align="left">
-  My career journey has not been a straight line. 
+  I just keep swimming.
 
 
 
