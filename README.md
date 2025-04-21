@@ -1,8 +1,5 @@
 <p align="center">
-  Browse my portfolio to see my skills and interests - contact me if you'd like to connect or discuss a project.
-
-  ***
-
+I was a project manager, but now I'm finishing a master's degree in data analytics. Stay tuned to see what I do next...
 
 #### Skills
 
@@ -12,16 +9,19 @@ Descriptive statistics and analytics | Predictive analytics | Data visualization
 
 RStudio | Postgres | Microsoft PowerBI | Microsoft Excel
 
-#### Projects
+#### Currently working on...
 
-* x
+* self-taught education in Computer Science from [OSSU](https://cs.ossu.dev/)
 
 
 ***
 <h5 align="center">About Me</h5>
 <p align="left">
-  I just keep swimming.
-
+I see problems to my left and problems to my right.
+The problems I want in front of me right now are:
+- water management in California
+- the mis' and dis' 'informed
+- creating a society that leaves no huMAN behind
 
 
 
