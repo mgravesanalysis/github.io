@@ -1,6 +1,10 @@
-<p align="center">
+<p align="left">
 I was a project manager, but now I'm finishing a master's degree in data analytics. Stay tuned to see what I do next...
 
+#### Currently working on...
+
+* self-taught education in Computer Science from [OSSU](https://cs.ossu.dev/)
+  
 #### Skills
 
 Descriptive statistics and analytics | Predictive analytics | Data visualization and presentation | Data analytics life cycle | Agile scrum management techniques | Risk assessment and problem solving
@@ -9,19 +13,10 @@ Descriptive statistics and analytics | Predictive analytics | Data visualization
 
 RStudio | Postgres | Microsoft PowerBI | Microsoft Excel
 
-#### Currently working on...
-
-* self-taught education in Computer Science from [OSSU](https://cs.ossu.dev/)
-
-
-***
-<h5 align="center">About Me</h5>
-<p align="left">
-I see problems to my left and problems to my right.
-The problems I want in front of me right now are:
-- water management in California
-- the mis' and dis' 'informed
-- creating a society that leaves no huMAN behind
+#### Things I care about
+* water management in California
+* the mis' and dis' 'informed
+* helping to build a society that leaves no huMAN behind
 
 
 
