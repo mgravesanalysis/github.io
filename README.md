@@ -8,6 +8,7 @@ I was a project manager, but now I'm finishing a master's degree in data analyti
 
 #### Currently working on...
 * self-taught education in Computer Science from [OSSU](https://cs.ossu.dev/)
+* Ian Wienand's [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 * reading [Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/) by [Cathy O'Neil](https://cathyoneil.org/)
   
 #### Skills
